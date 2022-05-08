@@ -1,0 +1,15 @@
+D:\Interviu\GoingThroughQuestions\bin\Debug\net6.0\GoingThroughQuestions.exe
+D:\Interviu\GoingThroughQuestions\bin\Debug\net6.0\GoingThroughQuestions.deps.json
+D:\Interviu\GoingThroughQuestions\bin\Debug\net6.0\GoingThroughQuestions.runtimeconfig.json
+D:\Interviu\GoingThroughQuestions\bin\Debug\net6.0\GoingThroughQuestions.dll
+D:\Interviu\GoingThroughQuestions\bin\Debug\net6.0\GoingThroughQuestions.pdb
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.csproj.AssemblyReference.cache
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.AssemblyInfoInputs.cache
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.AssemblyInfo.cs
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.csproj.CoreCompileInputs.cache
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.dll
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\refint\GoingThroughQuestions.dll
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.pdb
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\GoingThroughQuestions.genruntimeconfig.cache
+D:\Interviu\GoingThroughQuestions\obj\Debug\net6.0\ref\GoingThroughQuestions.dll
