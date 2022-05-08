@@ -1,0 +1,8 @@
+D:\Interviu\DiceGame\bin\Debug\DiceGame.exe.config
+D:\Interviu\DiceGame\bin\Debug\DiceGame.exe
+D:\Interviu\DiceGame\bin\Debug\DiceGame.pdb
+D:\Interviu\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+D:\Interviu\DiceGame\obj\Debug\DiceGame.csproj.SuggestedBindingRedirects.cache
+D:\Interviu\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+D:\Interviu\DiceGame\obj\Debug\DiceGame.exe
+D:\Interviu\DiceGame\obj\Debug\DiceGame.pdb
