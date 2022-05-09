@@ -1,0 +1,15 @@
+D:\Interviu\ValidParentheses\bin\Debug\net6.0\ValidParentheses.exe
+D:\Interviu\ValidParentheses\bin\Debug\net6.0\ValidParentheses.deps.json
+D:\Interviu\ValidParentheses\bin\Debug\net6.0\ValidParentheses.runtimeconfig.json
+D:\Interviu\ValidParentheses\bin\Debug\net6.0\ValidParentheses.dll
+D:\Interviu\ValidParentheses\bin\Debug\net6.0\ValidParentheses.pdb
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.AssemblyReference.cache
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfoInputs.cache
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfo.cs
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.dll
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\refint\ValidParentheses.dll
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.pdb
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ValidParentheses.genruntimeconfig.cache
+D:\Interviu\ValidParentheses\obj\Debug\net6.0\ref\ValidParentheses.dll
