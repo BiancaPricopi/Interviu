@@ -3,9 +3,9 @@
     public bool checkParanthesis(List<char> openBrackets, List<char> closeBrackets)
     {
         int length = closeBrackets.Count;
-        foreach(char c in openBrackets)
+        foreach (char c in openBrackets)
         {
-            if(length > 0)
+            if (length > 0)
             {
                 if (c == '(')
                 {
@@ -14,7 +14,7 @@
                         return false;
                     }
                 }
-                else if(c == '[')
+                else if (c == '[')
                 {
                     if (closeBrackets[--length] != ']')
                     {
@@ -41,23 +41,35 @@
         List<char> openBrackets = new List<char>();
         List<char> closeBrackets = new List<char>();
 
-        foreach(char c in s)
+        foreach (char c in s)
         {
-            if(c == '(' || c == '[' || c == '{')
+            if (c == '(' || c == '[' || c == '{')
             {
                 openBrackets.Add(c);
             }
             else
             {
                 closeBrackets.Add(c);
-                if(!checkParanthesis(openBrackets, closeBrackets))
+                if (openBrackets.Count == closeBrackets.Count)
                 {
-                    return false;
+                    if (!checkParanthesis(openBrackets, closeBrackets))
+                    {
+                        return false;
+                    }
+                    openBrackets.Clear();
+                    closeBrackets.Clear();
                 }
             }
         }
-        
-        return true;
+
+        if (openBrackets.Count == 0 && closeBrackets.Count == 0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 }
 
@@ -66,6 +78,6 @@ public class Test
     public static void Main()
     {
         Solution solution = new Solution();
-        Console.WriteLine(solution.IsValid("{[()]}"));
+        Console.WriteLine(solution.IsValid("(([]){})"));
     }
 }
