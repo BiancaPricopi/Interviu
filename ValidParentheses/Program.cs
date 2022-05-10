@@ -1,75 +1,40 @@
 ﻿public class Solution
 {
-    public bool checkParanthesis(List<char> openBrackets, List<char> closeBrackets)
+    private bool isOpenParentheses(char parentheses)
     {
-        int length = closeBrackets.Count;
-        foreach (char c in openBrackets)
-        {
-            if (length > 0)
-            {
-                if (c == '(')
-                {
-                    if (closeBrackets[--length] != ')')
-                    {
-                        return false;
-                    }
-                }
-                else if (c == '[')
-                {
-                    if (closeBrackets[--length] != ']')
-                    {
-                        return false;
-                    }
-                }
-                else
-                {
-                    if (closeBrackets[--length] != '}')
-                    {
-                        return false;
-                    }
-                }
-            }
-            else
-            {
-                return false;
-            }
-        }
-        return true;
+        return (parentheses == '(' || parentheses == '[' || parentheses == '{');
+    }
+    private bool areParenthesisCoresponding(char open, char close)
+    {
+        return (open == '(' && close == ')') ||
+            (open == '[' && close == ']') ||
+            (open == '{' && close == '}');
     }
     public bool IsValid(string s)
     {
-        List<char> openBrackets = new List<char>();
-        List<char> closeBrackets = new List<char>();
-
-        foreach (char c in s)
+        Stack<char> openParentheses = new Stack<char>();
+        foreach(char c in s)
         {
-            if (c == '(' || c == '[' || c == '{')
+            if (isOpenParentheses(c))
             {
-                openBrackets.Add(c);
+                openParentheses.Push(c);
             }
             else
             {
-                closeBrackets.Add(c);
-                if (openBrackets.Count == closeBrackets.Count)
+                if(openParentheses.Count == 0)
                 {
-                    if (!checkParanthesis(openBrackets, closeBrackets))
-                    {
-                        return false;
-                    }
-                    openBrackets.Clear();
-                    closeBrackets.Clear();
+                    return false;
+                }
+                char pair = openParentheses.Peek();
+                openParentheses.Pop();
+                if (!areParenthesisCoresponding(pair, c))
+                {
+                    return false;
                 }
             }
         }
-
-        if (openBrackets.Count == 0 && closeBrackets.Count == 0)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return openParentheses.Count() == 0;
+       
     }
 }
 
