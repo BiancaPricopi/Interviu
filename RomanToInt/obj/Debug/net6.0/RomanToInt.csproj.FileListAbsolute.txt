@@ -1,0 +1,15 @@
+D:\Interviu\RomanToInt\bin\Debug\net6.0\RomanToInt.exe
+D:\Interviu\RomanToInt\bin\Debug\net6.0\RomanToInt.deps.json
+D:\Interviu\RomanToInt\bin\Debug\net6.0\RomanToInt.runtimeconfig.json
+D:\Interviu\RomanToInt\bin\Debug\net6.0\RomanToInt.dll
+D:\Interviu\RomanToInt\bin\Debug\net6.0\RomanToInt.pdb
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.AssemblyReference.cache
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfoInputs.cache
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfo.cs
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.CoreCompileInputs.cache
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.dll
+D:\Interviu\RomanToInt\obj\Debug\net6.0\refint\RomanToInt.dll
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.pdb
+D:\Interviu\RomanToInt\obj\Debug\net6.0\RomanToInt.genruntimeconfig.cache
+D:\Interviu\RomanToInt\obj\Debug\net6.0\ref\RomanToInt.dll
