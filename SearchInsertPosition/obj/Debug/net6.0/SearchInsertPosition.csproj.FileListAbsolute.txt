@@ -1,0 +1,15 @@
+D:\Interviu\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.exe
+D:\Interviu\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.deps.json
+D:\Interviu\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.runtimeconfig.json
+D:\Interviu\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.dll
+D:\Interviu\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.pdb
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.AssemblyReference.cache
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfoInputs.cache
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfo.cs
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.dll
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\refint\SearchInsertPosition.dll
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.pdb
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.genruntimeconfig.cache
+D:\Interviu\SearchInsertPosition\obj\Debug\net6.0\ref\SearchInsertPosition.dll
